@@ -1,0 +1,6 @@
+@TacticalSelfHelp_HostAddress = http://localhost:5190
+
+GET {{TacticalSelfHelp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
